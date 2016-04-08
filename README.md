@@ -5,3 +5,5 @@ Applications developed as part of the course "Algorithms, Part 1" from Princeton
 
 Kudos:
 @billnitzberg says "thanks for sharing!"
+
+@dario says "Code must be reviewed before commits! WTF!"
